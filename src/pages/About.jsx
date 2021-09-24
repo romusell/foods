@@ -20,7 +20,7 @@
         <ol className="my-project-list">
           <li className="my-project-item">
             <span className="my-project-text">
-              <a href="https://romusell.github.io/react-food-project/" className="my-project-link">https://romusell.github.io/react-food-project/</a>
+              <a href="https://romusell.github.io/foods/" className="my-project-link">https://romusell.github.io/foods/</a>
               ..........
               <span className="my-project-bracket">[</span> React, HTML5, CSS3 <span className="my-project-bracket">]</span>
             </span>
